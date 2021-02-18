@@ -7,4 +7,4 @@ thrive in such an environment, you need to do intensive study before openning on
 Italian Restaurant to the pile of restaurants in NYC. We would like to know where is the best place to open it.  
 
 Capstone project coursera data science certificate<br>
-See the "CapstoneProject.ipynb" for the final project.
+<b>See the "CapstoneProject.ipynb" for the final project.
