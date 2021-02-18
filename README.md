@@ -6,5 +6,5 @@ years without eating in a restaurant twice. The large number of restaurants does
 thrive in such an environment, you need to do intensive study before openning one. Let's assume that we want to add a
 Italian Restaurant to the pile of restaurants in NYC. We would like to know where is the best place to open it.  
 
-Capstone project coursera data science certificate  
+Capstone project coursera data science certificate<br>
 See the "CapstoneProject.ipynb" for the final project.
